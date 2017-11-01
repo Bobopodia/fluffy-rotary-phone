@@ -1,3 +1,3 @@
 # fluffy-rotary-phone
 HTML
-Home of Doge.
+Home of The Magnificent Llama.
